@@ -29,6 +29,8 @@ npm run dev     # open http://localhost:3000
 - **TypeScript only** — do **not** use `any` to bypass types. Use the `Sneaker` type from `lib/types.ts`.
 - `npm run build` must pass with **zero** type errors.
 
+- #ShakaLakaBoomBoom
+
 ## Before you submit
 
 1. Run `npm run build` — fix any errors.
